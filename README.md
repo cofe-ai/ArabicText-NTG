@@ -11,7 +11,7 @@ In order to evaluate the generation ability of pretrained models, we published a
 | **TRAIN** | 836.3K  | 260.7/1314.0                 | 9.26/48.7                  |
 | **VALID** | 104.5K  | 259.0/1306.1                 | 9.24/48.6                  |
 | **TEST**  | 104.5K  | 258.2/1303.7                 | 9.28/48.8                  |
-| **Total** | 1045.5K | 260.2/1312.2                 | 9.26/48.7                  |
+| **Total** | 1.04M | 260.2/1312.2                 | 9.26/48.7                  |
 
 ## Getting Started
 
