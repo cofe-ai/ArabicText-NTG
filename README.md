@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In order to evaluate the generation ability of pretrained models, We published a large-scale, multi-topic Arabic news title generation dataset: **ArabicText-NTG**. It contains over 1M samples of Arabic news with their titles, which is the largest in the Arab world. The titles and contents have been strictly cleaned and manually filtered as insurance of high quality. Furthermore, we provide baseline results and evaluation scripts for a fair comparison. Feel free to download the dataset at [BAAIData](https://data.baai.ac.cn/details/ArabicText-NTG).
+In order to evaluate the generation ability of pretrained models, we published a large-scale, multi-topic Arabic news title generation dataset: **ArabicText-NTG**. It contains over 1M samples of Arabic news with their titles, which is the largest in the Arab world. The titles and contents have been strictly cleaned and manually filtered as insurance of high quality. Furthermore, we provide baseline results and evaluation scripts for a fair comparison. Feel free to download the dataset at [BAAIData](https://data.baai.ac.cn/details/ArabicText-NTG).
 
 ## Dataset Statistics
 
